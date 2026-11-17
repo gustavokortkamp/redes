@@ -2,7 +2,7 @@
 
 Nov 17, 2026 · @Gustavo
 
-Resumo das seções 3.1 (Fibras ópticas) e 3.2 (Cabos ópticos) do material *Projeto e Viabilidade de Redes FTTH* (Ronaldo Couto / Primori, rev. 30), com diagramas redesenhados. Onde o original tinha um pequeno erro de digitação ou uma explicação imprecisa, a correção está indicada.
+Resumo das seções 3.1 (Fibras ópticas) e 3.2 (Cabos ópticos) do material *Projeto e Viabilidade de Redes FTTH* (Ronaldo Couto / Primori, rev. 30), com diagramas redesenhados.
 
 ## 1. O que é a fibra óptica
 
