@@ -10,6 +10,7 @@ de infraestrutura.
 - [LAG / Link Aggregation](lag.md) — agregação de links com LACP
 - [Cálculo de sub-redes](subredes.md) — método do número mágico (a "gaveta")
 - [IPv6](ipv6.md) — endereçamento, cabeçalho, NDP e transição
+- [Fibra óptica — o básico](fibra-optica.md) — estrutura, tipos de fibra, cabos, código de cores e conectores
 
 
 ## Observação
