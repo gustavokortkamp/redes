@@ -1,8 +1,0 @@
-title: Redes — Base de Conhecimento
-description: Anotações práticas sobre redes de computadores — VLAN, LAG, sub-redes, IPv6 e fibra óptica.
-author: Luis Gustavo dos Reis Kort Kamp
-lang: pt-BR
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
