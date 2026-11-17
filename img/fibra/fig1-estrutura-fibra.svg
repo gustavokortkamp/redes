@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+  <rect width="760" height="340" fill="#ffffff"/>
+  <text x="380" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2d3d">Estrutura da fibra óptica (corte transversal)</text>
+  <circle cx="190" cy="185" r="125" fill="#f2c94c" stroke="#9a7b1c" stroke-width="2"/>
+  <circle cx="190" cy="185" r="85" fill="#cfe8f7" stroke="#4a7fa5" stroke-width="2"/>
+  <circle cx="190" cy="185" r="22" fill="#2f80ed" stroke="#1b4f91" stroke-width="2"/>
+  <line x1="190" y1="185" x2="400" y2="120" stroke="#1f2d3d" stroke-width="1.5"/>
+  <circle cx="190" cy="185" r="3" fill="#1f2d3d"/>
+  <text x="408" y="116" fill="#1f2d3d"><tspan font-weight="bold">Núcleo</tspan> — vidro, 9 µm (SM)</text>
+  <text x="408" y="136" fill="#555">por onde a luz viaja</text>
+  <line x1="250" y1="225" x2="400" y2="190" stroke="#1f2d3d" stroke-width="1.5"/>
+  <circle cx="250" cy="225" r="3" fill="#1f2d3d"/>
+  <text x="408" y="186" fill="#1f2d3d"><tspan font-weight="bold">Casca</tspan> — vidro, 125 µm</text>
+  <text x="408" y="206" fill="#555">índice de refração menor:</text>
+  <text x="408" y="224" fill="#555">mantém a luz presa no núcleo</text>
+  <line x1="290" y1="270" x2="400" y2="268" stroke="#1f2d3d" stroke-width="1.5"/>
+  <circle cx="290" cy="270" r="3" fill="#1f2d3d"/>
+  <text x="408" y="264" fill="#1f2d3d"><tspan font-weight="bold">Revestimento</tspan> — acrilato, 250 µm</text>
+  <text x="408" y="284" fill="#555">proteção mecânica e contra umidade</text>
+  <text x="380" y="330" text-anchor="middle" font-size="12" fill="#888">Desenho fora de escala</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+<rect width="640" height="380" fill="#ffffff"/>
+<text x="320" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2d3d">Cabo com tubos loose (corte genérico)</text>
+<circle cx="230" cy="190" r="140" fill="#333333"/>
+<circle cx="230" cy="190" r="126" fill="#e8e8e8"/>
+<circle cx="230" cy="190" r="28" fill="#7a7a7a" stroke="#555" stroke-width="2"/>
+<circle cx="230.0" cy="118.0" r="38" fill="#27ae60" stroke="#555" stroke-width="2"/>
+<circle cx="230.0" cy="118.0" r="30" fill="#fdf6d8" opacity="0.85"/>
+<circle cx="245.0" cy="118.0" r="5" fill="#27ae60" stroke="#444" stroke-width="1"/>
+<circle cx="237.5" cy="131.0" r="5" fill="#f2c94c" stroke="#444" stroke-width="1"/>
+<circle cx="222.5" cy="131.0" r="5" fill="#ffffff" stroke="#444" stroke-width="1"/>
+<circle cx="215.0" cy="118.0" r="5" fill="#2f80ed" stroke="#444" stroke-width="1"/>
+<circle cx="222.5" cy="105.0" r="5" fill="#eb5757" stroke="#444" stroke-width="1"/>
+<circle cx="237.5" cy="105.0" r="5" fill="#9b51e0" stroke="#444" stroke-width="1"/>
+<circle cx="292.4" cy="154.0" r="38" fill="#f2c94c" stroke="#555" stroke-width="2"/>
+<circle cx="292.4" cy="154.0" r="30" fill="#fdf6d8" opacity="0.85"/>
+<circle cx="307.4" cy="154.0" r="5" fill="#27ae60" stroke="#444" stroke-width="1"/>
+<circle cx="299.9" cy="167.0" r="5" fill="#f2c94c" stroke="#444" stroke-width="1"/>
+<circle cx="284.9" cy="167.0" r="5" fill="#ffffff" stroke="#444" stroke-width="1"/>
+<circle cx="277.4" cy="154.0" r="5" fill="#2f80ed" stroke="#444" stroke-width="1"/>
+<circle cx="284.9" cy="141.0" r="5" fill="#eb5757" stroke="#444" stroke-width="1"/>
+<circle cx="299.9" cy="141.0" r="5" fill="#9b51e0" stroke="#444" stroke-width="1"/>
+<circle cx="292.4" cy="226.0" r="38" fill="#ffffff" stroke="#555" stroke-width="2"/>
+<circle cx="292.4" cy="226.0" r="30" fill="#fdf6d8" opacity="0.85"/>
+<circle cx="307.4" cy="226.0" r="5" fill="#27ae60" stroke="#444" stroke-width="1"/>
+<circle cx="299.9" cy="239.0" r="5" fill="#f2c94c" stroke="#444" stroke-width="1"/>
+<circle cx="284.9" cy="239.0" r="5" fill="#ffffff" stroke="#444" stroke-width="1"/>
+<circle cx="277.4" cy="226.0" r="5" fill="#2f80ed" stroke="#444" stroke-width="1"/>
+<circle cx="284.9" cy="213.0" r="5" fill="#eb5757" stroke="#444" stroke-width="1"/>
+<circle cx="299.9" cy="213.0" r="5" fill="#9b51e0" stroke="#444" stroke-width="1"/>
+<circle cx="230.0" cy="262.0" r="38" fill="#ffffff" stroke="#555" stroke-width="2"/>
+<circle cx="230.0" cy="262.0" r="30" fill="#fdf6d8" opacity="0.85"/>
+<circle cx="245.0" cy="262.0" r="5" fill="#27ae60" stroke="#444" stroke-width="1"/>
+<circle cx="237.5" cy="275.0" r="5" fill="#f2c94c" stroke="#444" stroke-width="1"/>
+<circle cx="222.5" cy="275.0" r="5" fill="#ffffff" stroke="#444" stroke-width="1"/>
+<circle cx="215.0" cy="262.0" r="5" fill="#2f80ed" stroke="#444" stroke-width="1"/>
+<circle cx="222.5" cy="249.0" r="5" fill="#eb5757" stroke="#444" stroke-width="1"/>
+<circle cx="237.5" cy="249.0" r="5" fill="#9b51e0" stroke="#444" stroke-width="1"/>
+<circle cx="167.6" cy="226.0" r="38" fill="#ffffff" stroke="#555" stroke-width="2"/>
+<circle cx="167.6" cy="226.0" r="30" fill="#fdf6d8" opacity="0.85"/>
+<circle cx="182.6" cy="226.0" r="5" fill="#27ae60" stroke="#444" stroke-width="1"/>
+<circle cx="175.1" cy="239.0" r="5" fill="#f2c94c" stroke="#444" stroke-width="1"/>
+<circle cx="160.1" cy="239.0" r="5" fill="#ffffff" stroke="#444" stroke-width="1"/>
+<circle cx="152.6" cy="226.0" r="5" fill="#2f80ed" stroke="#444" stroke-width="1"/>
+<circle cx="160.1" cy="213.0" r="5" fill="#eb5757" stroke="#444" stroke-width="1"/>
+<circle cx="175.1" cy="213.0" r="5" fill="#9b51e0" stroke="#444" stroke-width="1"/>
+<circle cx="167.6" cy="154.0" r="38" fill="#ffffff" stroke="#555" stroke-width="2"/>
+<circle cx="167.6" cy="154.0" r="30" fill="#fdf6d8" opacity="0.85"/>
+<circle cx="182.6" cy="154.0" r="5" fill="#27ae60" stroke="#444" stroke-width="1"/>
+<circle cx="175.1" cy="167.0" r="5" fill="#f2c94c" stroke="#444" stroke-width="1"/>
+<circle cx="160.1" cy="167.0" r="5" fill="#ffffff" stroke="#444" stroke-width="1"/>
+<circle cx="152.6" cy="154.0" r="5" fill="#2f80ed" stroke="#444" stroke-width="1"/>
+<circle cx="160.1" cy="141.0" r="5" fill="#eb5757" stroke="#444" stroke-width="1"/>
+<circle cx="175.1" cy="141.0" r="5" fill="#9b51e0" stroke="#444" stroke-width="1"/>
+<line x1="348.0" y1="120.0" x2="430" y2="55" stroke="#1f2d3d" stroke-width="1.5"/>
+<circle cx="348.0" cy="120.0" r="3" fill="#1f2d3d"/>
+<text x="438" y="60" font-weight="bold" fill="#1f2d3d">Capa externa</text>
+<line x1="322.4" y1="154.0" x2="430" y2="125" stroke="#1f2d3d" stroke-width="1.5"/>
+<circle cx="322.4" cy="154.0" r="3" fill="#1f2d3d"/>
+<text x="438" y="130" font-weight="bold" fill="#1f2d3d">Tubo loose com gel</text>
+<line x1="307.4" y1="226.0" x2="430" y2="195" stroke="#1f2d3d" stroke-width="1.5"/>
+<circle cx="307.4" cy="226.0" r="3" fill="#1f2d3d"/>
+<text x="438" y="200" font-weight="bold" fill="#1f2d3d">Fibras soltas (250 µm)</text>
+<line x1="250.0" y1="210.0" x2="430" y2="265" stroke="#1f2d3d" stroke-width="1.5"/>
+<circle cx="250.0" cy="210.0" r="3" fill="#1f2d3d"/>
+<text x="438" y="270" font-weight="bold" fill="#1f2d3d">Elemento central</text>
+<text x="438" y="290" font-size="13" fill="#555">dá rigidez ao cabo</text>
+<text x="320" y="368" text-anchor="middle" font-size="12" fill="#888">Desenho fora de escala · tubos no padrão ABNT (verde = piloto, amarelo = direcional)</text>
+</svg>

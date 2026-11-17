@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+  <rect width="700" height="360" fill="#ffffff"/>
+  <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2d3d">Propagação da luz: multimodo × monomodo</text>
+  <!-- Multimodo -->
+  <text x="20" y="62" font-weight="bold" fill="#1f2d3d">Multimodo (núcleo de 50 ou 62,5 µm)</text>
+  <rect x="120" y="75" width="440" height="110" fill="#cfe8f7"/>
+  <rect x="120" y="95" width="440" height="70" fill="#9cc9ea"/>
+  <polyline points="120,130 160,95 230,165 300,95 370,165 440,95 510,165 560,118" fill="none" stroke="#eb5757" stroke-width="2"/>
+  <polyline points="120,130 200,95 290,165 380,95 470,165 560,95" fill="none" stroke="#f2994a" stroke-width="2"/>
+  <line x1="120" y1="130" x2="560" y2="130" stroke="#27ae60" stroke-width="2"/>
+  <!-- pulsos -->
+  <path d="M30,150 L50,150 L55,110 L65,110 L70,150 L90,150" fill="none" stroke="#1f2d3d" stroke-width="2"/>
+  <text x="60" y="172" text-anchor="middle" font-size="12" fill="#555">pulso</text>
+  <path d="M580,150 L595,150 Q620,108 645,108 Q670,108 690,150" fill="none" stroke="#1f2d3d" stroke-width="2"/>
+  <text x="635" y="172" text-anchor="middle" font-size="12" fill="#555">pulso alargado</text>
+  <text x="340" y="205" text-anchor="middle" font-size="13" fill="#555">vários caminhos (modos) chegam em tempos diferentes → dispersão modal → distâncias curtas</text>
+  <!-- Monomodo -->
+  <text x="20" y="245" font-weight="bold" fill="#1f2d3d">Monomodo (núcleo de 9 µm)</text>
+  <rect x="120" y="258" width="440" height="60" fill="#cfe8f7"/>
+  <rect x="120" y="282" width="440" height="12" fill="#9cc9ea"/>
+  <line x1="120" y1="288" x2="560" y2="288" stroke="#27ae60" stroke-width="2.5"/>
+  <path d="M30,305 L50,305 L55,268 L65,268 L70,305 L90,305" fill="none" stroke="#1f2d3d" stroke-width="2"/>
+  <path d="M590,305 L610,305 L616,270 L628,270 L634,305 L660,305" fill="none" stroke="#1f2d3d" stroke-width="2"/>
+  <text x="340" y="342" text-anchor="middle" font-size="13" fill="#555">praticamente um único modo → pulso preservado → dezenas de quilômetros</text>
+</svg>

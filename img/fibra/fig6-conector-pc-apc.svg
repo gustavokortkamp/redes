@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+  <rect width="700" height="300" fill="#ffffff"/>
+  <defs><marker id="s" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#eb5757"/></marker>
+        <marker id="g" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#27ae60"/></marker></defs>
+  <text x="350" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2d3d">Polimento PC/UPC × APC: para onde vai a reflexão</text>
+  <!-- PC -->
+  <text x="40" y="70" font-weight="bold" fill="#2f80ed">PC / UPC (azul) — face reta</text>
+  <rect x="40" y="90" width="250" height="60" fill="#cfe8f7" stroke="#4a7fa5"/>
+  <rect x="40" y="112" width="250" height="16" fill="#9cc9ea"/>
+  <line x1="60" y1="120" x2="285" y2="120" stroke="#27ae60" stroke-width="2.5" marker-end="url(#g)"/>
+  <line x1="280" y1="126" x2="150" y2="126" stroke="#eb5757" stroke-width="2.5" stroke-dasharray="6,4" marker-end="url(#s)"/>
+  <text x="40" y="180" font-size="13" fill="#555">A parte da luz que reflete na face</text>
+  <text x="40" y="198" font-size="13" fill="#555">volta pelo núcleo até o transmissor.</text>
+  <text x="40" y="216" font-size="13" fill="#555">Perda de retorno típica: em torno de 50 dB (UPC)</text>
+  <!-- APC -->
+  <text x="390" y="70" font-weight="bold" fill="#27ae60">APC (verde) — face com ângulo de 8°</text>
+  <polygon points="390,90 640,90 660,150 390,150" fill="#cfe8f7" stroke="#4a7fa5"/>
+  <polygon points="390,112 647,112 652,128 390,128" fill="#9cc9ea"/>
+  <line x1="410" y1="120" x2="640" y2="120" stroke="#27ae60" stroke-width="2.5" marker-end="url(#g)"/>
+  <line x1="645" y1="122" x2="560" y2="160" stroke="#eb5757" stroke-width="2.5" stroke-dasharray="6,4" marker-end="url(#s)"/>
+  <text x="390" y="180" font-size="13" fill="#555">O ângulo desvia a reflexão para a casca,</text>
+  <text x="390" y="198" font-size="13" fill="#555">e ela quase não volta ao transmissor.</text>
+  <text x="390" y="216" font-size="13" fill="#555">Perda de retorno típica: ≥ 60 dB</text>
+  <text x="350" y="270" text-anchor="middle" font-size="13" fill="#1f2d3d">Verde = luz transmitida · tracejado vermelho = luz refletida</text>
+  <text x="350" y="290" text-anchor="middle" font-size="12" fill="#888">Desenho fora de escala</text>
+</svg>

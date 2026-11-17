@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+  <rect width="720" height="300" fill="#ffffff"/>
+  <text x="360" y="28" text-anchor="middle" font-size="18" font-weight="bold" fill="#1f2d3d">Bandas ITU-T e comprimentos de onda da GPON</text>
+  <!-- escala: 1260 nm -> x=40 ; 1675 nm -> x=680 ; 1 nm = 1.5422 px -->
+  <g stroke="#ffffff" stroke-width="2">
+    <rect x="40"  y="150" width="154" height="44" fill="#56ccf2"/>
+    <rect x="194" y="150" width="154" height="44" fill="#6fcf97"/>
+    <rect x="348" y="150" width="108" height="44" fill="#f2c94c"/>
+    <rect x="456" y="150" width="54"  height="44" fill="#f2994a"/>
+    <rect x="510" y="150" width="93"  height="44" fill="#eb5757"/>
+    <rect x="603" y="150" width="77"  height="44" fill="#bb6bd9"/>
+  </g>
+  <g text-anchor="middle" font-weight="bold" fill="#1f2d3d">
+    <text x="117" y="177">O</text><text x="271" y="177">E</text><text x="402" y="177">S</text>
+    <text x="483" y="177">C</text><text x="556" y="177">L</text><text x="641" y="177">U</text>
+  </g>
+  <g text-anchor="middle" font-size="11" fill="#555">
+    <text x="40" y="212">1260</text><text x="194" y="212">1360</text><text x="348" y="212">1460</text>
+    <text x="456" y="212">1530</text><text x="510" y="212">1565</text><text x="603" y="212">1625</text><text x="680" y="212">1675 nm</text>
+  </g>
+  <!-- marcadores -->
+  <g font-size="13" text-anchor="middle">
+    <line x1="117" y1="70" x2="117" y2="150" stroke="#1f2d3d" stroke-width="2"/>
+    <text x="117" y="58" font-weight="bold" fill="#1f2d3d">1310 nm</text>
+    <line x1="402" y1="70" x2="402" y2="150" stroke="#1f2d3d" stroke-width="2"/>
+    <text x="402" y="58" font-weight="bold" fill="#1f2d3d">1490 nm</text>
+    <line x1="487" y1="70" x2="487" y2="150" stroke="#1f2d3d" stroke-width="2"/>
+    <text x="487" y="58" font-weight="bold" fill="#1f2d3d">1550 nm</text>
+  </g>
+  <g font-size="12" fill="#333">
+    <rect x="124" y="92" width="150" height="40" rx="5" fill="#f4f8fb" stroke="#c9d6e2"/>
+    <text x="132" y="108">Upstream (ONU → OLT)</text><text x="132" y="124">≈ 0,35 dB/km</text>
+    <rect x="250" y="236" width="150" height="40" rx="5" fill="#f4f8fb" stroke="#c9d6e2"/>
+    <text x="258" y="252">1490: Downstream</text><text x="258" y="268">(OLT → ONU) ≈ 0,25 dB/km</text>
+    <rect x="530" y="92" width="150" height="40" rx="5" fill="#f4f8fb" stroke="#c9d6e2"/>
+    <text x="538" y="108">Vídeo (RF overlay)</text><text x="538" y="124">≈ 0,20 dB/km</text>
+  </g>
+  <line x1="402" y1="196" x2="340" y2="236" stroke="#c9d6e2" stroke-width="1.5"/>
+  <line x1="494" y1="112" x2="530" y2="112" stroke="#c9d6e2" stroke-width="1.5"/>
+</svg>
