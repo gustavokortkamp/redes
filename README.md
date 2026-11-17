@@ -7,7 +7,7 @@ de infraestrutura.
 ## Conteúdo
 
 - [VLAN](vlan.md) — o que é, para que serve e como configurar
-- LAG / Link Aggregation — *em breve*
+- [LAG / Link Aggregation](lag.md) — agregação de links com LACP
 - Fibra óptica e FTTX — *em breve*
 - Ubiquiti / UniFi — *em breve*
 
