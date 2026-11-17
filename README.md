@@ -8,6 +8,7 @@ de infraestrutura.
 
 - [VLAN](vlan.md) — o que é, para que serve e como configurar
 - [LAG / Link Aggregation](lag.md) — agregação de links com LACP
+- [Cálculo de sub-redes](subredes.md) — método do número mágico (a "gaveta")
 - Fibra óptica e FTTX — *em breve*
 - Ubiquiti / UniFi — *em breve*
 
